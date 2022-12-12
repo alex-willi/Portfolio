@@ -1,14 +1,14 @@
 [
   {
     "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "live": "https://alex-willi.github.io/Project-1-Blackjack/",
+    "git": "https://github.com/alex-willi/Project-1-Blackjack",
+    "image": "https://i.imgur.com/moDOwvy.png"
   },
   {
     "name": "project2",
-    "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "live": "https://weather-app-alex-solomon.netlify.app",
+    "git": "https://github.com/alex-willi/Weather-App",
+    "image": "https://i.imgur.com/673XNrZ.png"
   }
 ]
